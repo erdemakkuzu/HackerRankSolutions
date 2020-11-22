@@ -13,3 +13,4 @@
 8. Sub Array Division https://www.hackerrank.com/challenges/the-birthday-bar/problem
 9. Breaking The Records https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 9. Sales By Match https://www.hackerrank.com/challenges/sock-merchant/problem
+10. Drawing Book https://www.hackerrank.com/challenges/drawing-book/problem?h_r=next-challenge&h_v=zen
