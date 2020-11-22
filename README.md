@@ -14,3 +14,4 @@
 9. Breaking The Records https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 9. Sales By Match https://www.hackerrank.com/challenges/sock-merchant/problem
 10. Drawing Book https://www.hackerrank.com/challenges/drawing-book/problem?h_r=next-challenge&h_v=zen
+11. Counting Valeys https://www.hackerrank.com/challenges/counting-valleys/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
