@@ -16,3 +16,4 @@
 10. Drawing Book https://www.hackerrank.com/challenges/drawing-book/problem?h_r=next-challenge&h_v=zen
 11. Counting Valeys https://www.hackerrank.com/challenges/counting-valleys/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 12. Elecronics Shop https://www.hackerrank.com/challenges/electronics-shop/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+13. Cats and a Mouse https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
